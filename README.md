@@ -1,16 +1,8 @@
-# musicui
+# Music App UI Flutter
+Watch Full Tutorial 
+https://youtu.be/1yIGWoMK4Lo
+<br>
+Make Sure You Like Share And Subscribe The Channel Codetodo https://www.youtube.com/channel/UCWJ65l5tSDnCJTrFp185qeQ
 
-A new Flutter project.
+<img src="screenshot/MusicUI.jpg" style="width:100%">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
